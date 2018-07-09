@@ -1,7 +1,7 @@
 # Get My Number Game
 # Written by: Terri Riggle
 
-puts "Welcome to 'Get My Number!'"
+puts "Welcome to 'Guess My Number!'"
 print "What's your name? "
 
 input = gets
